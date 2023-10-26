@@ -2,10 +2,10 @@
 
 ## Project Title
 
- <h3 align="center">Just-relax</h3>
+ <h3 align="center">Choice of dishes</h3>
 <div align="center">
   <a href="https://github.com/OksanaOxana/my-portfolio/blob/main/photo_2023-08-19_13-54-31.jpg">
-    <img src="https://github.com/OksanaOxana/just-relax/blob/main/young-woman-practicing-meditation.jpg" alt="Logo" width="80" height="100">
+    <img src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGRlY2lzaW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="Logo" width="100" height="100">
   </a>
 </div> 
 
@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Clone the repo at [https://github.com/OksanaOxana/just-relax](https://github.com/OksanaOxana/just-relax)
+1. Clone the repo at [https://github.com/OksanaOxana/choice-of-dish](https://github.com/OksanaOxana/choice-of-dish)
 2. In the terminal you need to paste the copied link to the project
 3. Next, enter the cloned folder and open the code
 
@@ -63,4 +63,4 @@ If you have any comments on my project, here are my contacts:
 
 [oxi_butylova@mail.ru](https://oxi_butylova@mail.ru)
 
-Project Link: [https://github.com/OksanaOxana/just-relax](https://github.com/OksanaOxana/just-relax)
+Project Link: [https://github.com/OksanaOxana/choice-of-dish](https://github.com/OksanaOxana/choice-of-dish)
