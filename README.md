@@ -9,6 +9,13 @@
   </a>
 </div> 
 
+### Built With
+
+
+* HTML/CSS
+* Bootstrap
+* JavaScript
+* GSAP
 
 <!-- ABOUT THE PROJECT -->
 
@@ -28,16 +35,6 @@ In this app there are dish ideas for:
 * For those who eat different types of meat
 
 Use the `BLANK_README.md` to get started.
-
-
-### Built With
-
-
-* HTML/CSS
-* Bootstrap
-* JavaScript
-* GSAP
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
