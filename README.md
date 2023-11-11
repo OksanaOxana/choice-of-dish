@@ -4,7 +4,7 @@
 
  <h3 align="center">Choice of dishes</h3>
 <div align="center">
-  <a href="https://github.com/OksanaOxana/my-portfolio/blob/main/photo_2023-08-19_13-54-31.jpg">
+  <a href="https://github.com/OksanaOxana/choice-of-dish">
     <img src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGRlY2lzaW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="Logo" width="100" height="100">
   </a>
 </div> 
