@@ -20,12 +20,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ### About The Project
-
-I'm Oksana. I am a front-end developer from Belarus. I have learned HTML/CSS, Bootstrap, JavaScript, Python, Figma, Gsap, Git.
-And now I’m looking for a job where I can put my skills into practice, where I can become part of a team and benefit the company.
-I try to learn something new every day and now I am learning React.
-
-
 As a person who cooks often, I am sometimes faced with the need to come up with something for dinner or lunch. 
 That's why the app was created to help you choose a dinner idea.
 
